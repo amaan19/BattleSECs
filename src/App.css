@@ -33,7 +33,7 @@
 }
 
 .test {
-  background-color: black;
+  /* background-color: black; */
   border: solid red 1px;
   height: 30px;
   width: 30px;
